@@ -1,0 +1,12 @@
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\OESK_Projekt_I.exe.config
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\OESK_Projekt_I.exe
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\OESK_Projekt_I.pdb
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\EntityFramework.dll
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\EntityFramework.xml
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\obj\Debug\OESK_Projekt_I.csprojAssemblyReference.cache
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\obj\Debug\OESK_Projekt_I.csproj.CopyComplete
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\obj\Debug\OESK_Projekt_I.exe
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\obj\Debug\OESK_Projekt_I.pdb
+C:\Users\Rafal\Documents\Studia_II\Semestr_I\OESK\Laboratorium\OESK_Projekt_I\bin\Debug\CoreTechs.Common.dll
